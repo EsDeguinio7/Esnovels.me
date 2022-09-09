@@ -112,6 +112,10 @@ label #btn:hover{
     color:red;
     text-decoration:none;
 }
+
+.flex a:visited{
+    Color:black;
+}
 #rec{
     width: 150px;
     height: 30px;
