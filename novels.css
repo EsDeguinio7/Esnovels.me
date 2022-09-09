@@ -114,7 +114,9 @@ label #btn:hover{
     color:red;
     text-decoration:none;
 }
-
+.flexbox p a:visited{
+    color:black;
+}
 /* footer */
 footer{
     width: 95%;
