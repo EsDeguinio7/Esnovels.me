@@ -194,3 +194,6 @@ footer{
     text-decoration:none;
     margin:10px 0 10px 90px;
 }
+.flex a:visited{
+    color:black;
+}
