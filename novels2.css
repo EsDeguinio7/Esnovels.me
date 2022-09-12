@@ -346,3 +346,116 @@ footer{
     text-align:center;
 }
 /* End */
+/* Rolloveranddie */
+.die{
+    width: 300px;
+    height: 360px;
+    margin-left:2px;
+    margin-top:10px;
+    border:black 1px solid;
+    border-radius:2px;
+}
+
+#roll{
+    width: 80%;
+    height: 30px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center
+}
+
+.over{
+    width: 95%;
+    min-height: 1000px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center;
+}
+/* end */
+/* progressive */
+.online{
+    width: 300px;
+    height: 360px;
+    margin-left:2px;
+    margin-top:10px;
+    border:black 1px solid;
+    border-radius:2px;
+}
+
+#sword{
+    width: 80%;
+    height: 60px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center
+}
+
+.art{
+    width: 95%;
+    min-height: 1000px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center;
+}
+/* end */
+/* From Toxic to girlfriend */
+.goals{
+    width: 300px;
+    height: 360px;
+    margin-left:2px;
+    margin-top:10px;
+    border:black 1px solid;
+    border-radius:2px;
+}
+
+#from{
+    width: 80%;
+    height: 60px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center
+}
+
+.toxic{
+    width: 95%;
+    min-height: 1000px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center;
+}
+/* End */
+/* Combatants */
+.tants{
+    width: 300px;
+    height: 360px;
+    margin-left:2px;
+    margin-top:10px;
+    border:black 1px solid;
+    border-radius:2px;
+}
+
+#com{
+    width: 80%;
+    height: 60px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center
+}
+
+.ba{
+    width: 95%;
+    min-height: 1000px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center;
+}
+/* ENd */
+
