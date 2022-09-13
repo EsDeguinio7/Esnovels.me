@@ -1,0 +1,156 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body {
+    background: #f1f1f1;
+    margin:0;
+    padding:0;
+    font-family:Courier;
+}
+/* Header */
+header{
+    background: #e4e4e4;
+    width: 100%;
+    height: 80px;
+    border-bottom:black 1px solid;
+}
+header h2{
+    margin-left:110px;
+    margin-top:-35px;
+}
+header span{
+    color:red;
+}
+
+.img1{
+    width: 100px;
+    height: 100px;
+    border-radius:100px;
+}
+/* Sidebar */
+.sidebar{
+    background: #e4e4e4;
+    margin-top:0px;
+    padding-top:30px;
+    position: absolute;
+    left:-181px;
+    width: 180px;
+    height: 400px;
+    border-right:black 1px solid;
+    border-bottom:black 1px solid;
+    transition:0.5s left ease;
+}
+
+.sidebar a{
+    color:black;
+    display:block;
+    width: 100%;
+    line-height:50px;
+    text-decoration: none;
+    box-sizing:border-box;
+    padding-left:20px;
+    transition:0.5s color ease;
+    transition:0.5s padding-left ease;
+}
+
+.sidebar a:hover{
+    color: red;
+    padding-left:25px;
+}
+
+label #btn{
+    z-index:1;
+    color:black;
+    cursor:pointer;
+    margin-left:20px;
+    margin-top:30px;
+    font-size:20px;
+    transition:0.5s;
+    transition-property:color;
+}
+
+label #btn:hover{
+    color:red;
+}
+
+#check:checked ~ .sidebar{
+    left:0px;
+}
+
+#check{
+    display:none;
+}
+/* content */
+.flexbox{
+    background:#f1f1f1;
+    display:flex;
+    left:0;
+    padding-top:0px;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+
+.flex a{
+    color:red;
+    text-decoration:none;
+}
+
+#rec{
+    width: 150px;
+    height: 30px;
+    text-align:center;
+}
+
+#copy{
+    width: 200px;
+    height: 30px;
+    text-align:center;
+}
+
+.flexbox p a{
+    color:red;
+    text-decoration:none;
+}
+
+.flexbox p a:visited{
+    color:black;
+}
+/* footer */
+footer{
+    width: 95%;
+    height: 30px;
+    margin-left:8px;
+    margin-bottom:10px;
+    text-align:center;
+    border:black 1px solid;
+    border-radius:2px;
+}
+.live{
+    width: 300px;
+    height: 360px;
+    margin-left:2px;
+    margin-top:10px;
+    border:black 1px solid;
+    border-radius:2px;
+}
+
+#endo{
+    width: 70%;
+    height: 60px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center
+}
+
+.kobayashi{
+    width: 95%;
+    min-height: 1000px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center;
+}
