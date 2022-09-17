@@ -122,7 +122,7 @@ label #btn:hover{
 footer{
     width: 95%;
     height: 30px;
-    margin-left:8px;
+    margin-left:0px;
     margin-bottom:10px;
     text-align:center;
     border:black 1px solid;
@@ -286,6 +286,90 @@ footer{
 }
 
 .works{
+    width: 95%;
+    min-height: 1000px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center;
+}
+/* End */
+/* Vtuber Legend */
+.gend{
+    width: 300px;
+    height: 360px;
+    margin-left:2px;
+    margin-top:10px;
+    border:black 1px solid;
+    border-radius:2px;
+}
+
+#vtuber{
+    width: 90%;
+    height: 30px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center
+}
+
+.le{
+    width: 95%;
+    min-height: 1000px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center;
+}
+/* End */
+/* Fantasy Inbound */
+.inbound{
+    width: 300px;
+    height: 360px;
+    margin-left:2px;
+    margin-top:10px;
+    border:black 1px solid;
+    border-radius:2px;
+}
+
+#fan{
+    width: 90%;
+    height: 30px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center
+}
+
+.tasy{
+    width: 95%;
+    min-height: 1000px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center;
+}
+/* End */
+/* Warlords Of Sigrdrifa */
+.drifa{
+    width: 300px;
+    height: 360px;
+    margin-left:2px;
+    margin-top:10px;
+    border:black 1px solid;
+    border-radius:2px;
+}
+
+#warlords{
+    width: 98%;
+    height: 60px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center
+}
+
+.sigr{
     width: 95%;
     min-height: 1000px;
     border:black 1px solid;
