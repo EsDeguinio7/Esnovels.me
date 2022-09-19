@@ -294,3 +294,87 @@ footer{
     text-align:center;
 }
 /* End */
+/* 𝙵𝙻𝙵𝙾 */
+.fantasy{
+    width: 300px;
+    height: 360px;
+    margin-left:2px;
+    margin-top:10px;
+    border:black 1px solid;
+    border-radius:2px;
+}
+
+#free{
+    width: 98%;
+    height: 30px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center
+}
+
+.life{
+    width: 95%;
+    min-height: 1000px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center;
+}
+/* 𝙴𝚗𝚍 */
+/* Lonely Me And Lonely Caring Goddess */
+.goddess{
+    width: 300px;
+    height: 360px;
+    margin-left:2px;
+    margin-top:10px;
+    border:black 1px solid;
+    border-radius:2px;
+}
+
+#lonely-me{
+    width: 98%;
+    height: 60px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center
+}
+
+.lonely-caring{
+    width: 95%;
+    min-height: 1000px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center;
+}
+/* End */
+/* Genocide Online */
+.online{
+    width: 300px;
+    height: 360px;
+    margin-left:2px;
+    margin-top:10px;
+    border:black 1px solid;
+    border-radius:2px;
+}
+
+#geno{
+    width: 90%;
+    height: 30px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center
+}
+
+.cide{
+    width: 95%;
+    min-height: 1000px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center;
+}
+/* ENd */
