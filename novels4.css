@@ -409,3 +409,31 @@ footer{
     text-align:center;
 }
 /* 𝙴𝙽𝙳 */
+/* Life is a Mess Ever Since My Mother Won an Ero-Novel Grand Prize */
+.ero-novel{
+    width: 300px;
+    height: 360px;
+    margin-left:2px;
+    margin-top:10px;
+    border:black 1px solid;
+    border-radius:2px;
+}
+
+#mess{
+    width: 98%;
+    height: 90px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center
+}
+
+.mother{
+    width: 95%;
+    min-height: 1000px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center;
+}
+/* End */
