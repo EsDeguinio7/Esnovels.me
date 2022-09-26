@@ -225,7 +225,7 @@ footer{
 
 #prove{
     width: 98%;
-    height: 60px;
+    height: 90px;
     border:black 1px solid;
     margin-bottom:10px;
     border-radius:2px;
@@ -269,34 +269,7 @@ footer{
     text-align:center;
 }
 /* End */
-/* Miyamoto Sakura */
-.cute{
-    width: 300px;
-    height: 360px;
-    margin-left:2px;
-    margin-top:10px;
-    border:black 1px solid;
-    border-radius:2px;
-}
 
-#miya{
-    width: 98%;
-    height: 60px;
-    border:black 1px solid;
-    margin-bottom:10px;
-    border-radius:2px;
-    text-align:center
-}
-
-.moto{
-    width: 95%;
-    min-height: 1000px;
-    border:black 1px solid;
-    margin-bottom:10px;
-    border-radius:2px;
-    text-align:center;
-}
-/* End */
 /* Is a Girlfriend who cant say i love you */
 .cant{
     width: 300px;
@@ -309,7 +282,7 @@ footer{
 
 #girl{
     width: 98%;
-    height: 60px;
+    height: 120px;
     border:black 1px solid;
     margin-bottom:10px;
     border-radius:2px;
@@ -325,34 +298,7 @@ footer{
     text-align:center;
 }
 /* End */
-/* In the after SCHool */
-.after{
-    width: 300px;
-    height: 360px;
-    margin-left:2px;
-    margin-top:10px;
-    border:black 1px solid;
-    border-radius:2px;
-}
 
-#in{
-    width: 98%;
-    height: 60px;
-    border:black 1px solid;
-    margin-bottom:10px;
-    border-radius:2px;
-    text-align:center
-}
-
-.the{
-    width: 95%;
-    min-height: 1000px;
-    border:black 1px solid;
-    margin-bottom:10px;
-    border-radius:2px;
-    text-align:center;
-}
-/* End */
 /* I Hold Your Voice Alone */
 .alone{
     width: 300px;
