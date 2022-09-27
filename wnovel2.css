@@ -490,3 +490,31 @@ footer{
     text-align:center;
 }
 /* End */
+/* 𝚂𝚎𝚌𝚘𝚗𝚍 𝙲𝚞𝚝𝚎𝚜𝚝 𝙶𝚒𝚛𝚕 𝚒𝚗 𝚖𝚢 𝙲𝚕𝚊𝚜𝚜 */
+.cutest{
+    width: 300px;
+    height: 360px;
+    margin-left:2px;
+    margin-top:10px;
+    border:black 1px solid;
+    border-radius:2px;
+}
+
+#friends{
+    width: 98%;
+    height: 90px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center
+}
+
+.friend{
+    width: 95%;
+    min-height: 1000px;
+    border:black 1px solid;
+    margin-bottom:10px;
+    border-radius:2px;
+    text-align:center;
+}
+/* 𝙴𝚗𝚍 */
