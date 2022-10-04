@@ -187,3 +187,12 @@ footer h4{
     text-align:center;
     margin-top:20px;
 }
+#oneshot-14{
+  text-align: center;
+  text-decoration: none;
+  height: 700px;
+}
+#oneshot-14 a{
+  text-decoration: none;
+  color:red;
+}
