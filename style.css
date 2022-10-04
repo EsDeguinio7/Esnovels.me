@@ -202,3 +202,61 @@ footer h4{
   text-decoration: none;
   color:red;
 }
+/* Light Novels */
+.ln-bars{
+  background-color:#e4e4e4;
+  width: 100%;
+  height: 50px;
+  border-bottom:black 1px solid;
+}
+.ln{
+    display:flex;
+    flex-direction:column;
+    flex-wrap:wrap;
+    justify-content:center;
+    align-items:center;
+}
+#ln-13{
+    width: 60%;
+    height: 30px;
+    text-align:center;
+    margin-top:20px;
+}
+#ln-14{
+  text-align: center;
+  text-decoration: none;
+  height:2700px;
+}
+#ln-14 a{
+  text-decoration: none;
+  color:red;
+}
+/* Web Novels */
+.wn-bars{
+  background-color:#e4e4e4;
+  width: 100%;
+  height: 50px;
+  border-bottom:black 1px solid;
+}
+.wn{
+    display:flex;
+    flex-direction:column;
+    flex-wrap:wrap;
+    justify-content:center;
+    align-items:center;
+}
+#wn-13{
+    width: 60%;
+    height: 30px;
+    text-align:center;
+    margin-top:20px;
+}
+#wn-14{
+  text-align: center;
+  text-decoration: none;
+  height:2000px;
+}
+#wn-14 a{
+  text-decoration: none;
+  color:red;
+}
