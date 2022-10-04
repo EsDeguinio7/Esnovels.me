@@ -166,3 +166,24 @@ footer h4{
   border:black 1px solid;
   border-radius:2px;
 }
+/* Oneshot */
+.Oneshot{
+    display:flex;
+    flex-direction:column;
+    flex-wrap:wrap;
+    justify-content:center;
+    align-items:center;
+}
+.one{
+    width: 98%;
+    height: 1000px;
+    border: black 1px solid;
+    border-radius:2px;
+    margin-bottom:20px;
+}
+#oneshot-13{
+    width: 60%;
+    height: 30px;
+    text-align:center;
+    margin-top:20px;
+}
