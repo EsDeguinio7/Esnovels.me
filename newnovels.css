@@ -173,3 +173,30 @@ footer h4{
   text-decoration: none;
   color: red;
 }
+/* Majo No Tabitabi */
+#elaina-title{
+  text-align: center;
+  width:80%;
+  height: 30px;
+}
+#elaina-13{
+  width: 300px;
+  height: 360px;
+}
+#elaina-12{
+  text-align: center;
+  height: 240px;
+}
+#elaina-11{
+  text-align: center;
+  font-family: Courier;
+  height: 700px;
+}
+#elaina-10{
+  text-align: center;
+  height: 500px;
+}
+#elaina-10 a{
+  text-decoration: none;
+  color: red;
+}
