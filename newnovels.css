@@ -416,3 +416,30 @@ footer h4{
   text-decoration: none;
   color: red;
 }
+/* She's The Cutest... But We're Just Friends */
+#cutest-title{
+  text-align: center;
+  width:90%;
+  height: 60px;
+}
+#cutest-13{
+  width: 300px;
+  height: 360px;
+}
+#cutest-12{
+  text-align: center;
+  height: 250px;
+}
+#cutest-11{
+  text-align: center;
+  font-family: Courier;
+  height: 550px;
+}
+#cutest-10{
+  text-align: center;
+  height: 200px;
+}
+#cutest-10 a{
+  text-decoration: none;
+  color: red;
+}
