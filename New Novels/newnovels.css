@@ -1,0 +1,445 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    background: #f1f1f1;
+    margin:0;
+    padding:0;
+}
+/* Header */
+header{
+    background: #e4e4e4;
+    width: 100%;
+    height: 80px;
+    border-bottom:black 1px solid;
+}
+header h2{
+  padding-top: 20px;
+  text-align: center;
+}
+header span{
+    color:red;
+}
+
+.img1{
+    width: 100px;
+    height: 100px;
+    border-radius:100px;
+}
+
+.img2{
+    width: 100px;
+    height: 100px;
+    border-radius:100px;
+}
+.bars{
+  border-bottom:black 1px solid;
+  background-color:#e4e4e4;
+  width: 100%;
+  height: 50px;
+}
+/* Sidebar */
+.sidebar{
+    background: #e4e4e4;
+    margin-top:1px;
+    padding-top:30px;
+    position: absolute;
+    left:-181px;
+    width: 180px;
+    height: 500px;
+    border-right:black 1px solid;
+    border-bottom:black 1px solid;
+    transition:0.5s left ease;
+}
+
+.sidebar a{
+    color:black;
+    display:block;
+    width: 100%;
+    line-height:50px;
+    text-decoration: none;
+    box-sizing:border-box;
+    padding-left:20px;
+    transition:0.5s color ease;
+    transition:0.5s padding-left ease;
+}
+
+.sidebar a:hover{
+    color: red;
+    padding-left:25px;
+}
+
+label #btn{
+    z-index:1;
+    color:black;
+    cursor:pointer;
+    font-size:20px;
+    margin-top:15px;
+    margin-left: 20px;
+    transition:0.5s;
+    transition-property:color;
+}
+
+label #btn:hover{
+    color:red;
+}
+
+#check:checked ~ .sidebar{
+    left:0px;
+}
+
+#check{
+    display:none;
+}
+footer{
+    margin-top:10px;
+    background-color:#e4e4e4;
+    width: 100%;
+    height: 60px;
+    text-align:center;
+    border-top:black 1px solid;
+}
+footer h4{
+  padding-top:20px;
+}
+/* Contents */
+.flexbox{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.flex{
+  background-color:#e4e4e4;
+  margin:10px 0 0 0;
+  border:black 1px solid;
+  width: 90%;
+  height: 500px;
+  border-radius: 2px;
+}
+#noveltitle{
+  width: 60%;
+  height: 25px;
+  text-align: center;
+}
+#flex13{
+  width: 300px;
+  height: 360px;
+}
+.img12{
+  width: 100%;
+  height: 100%;
+}
+#flex12{
+  text-align: center;
+  height: 230px;
+}
+#flex11{
+  text-align: center;
+  font-family: Courier;
+  height: 520px;
+}
+#flex10{
+  text-align: center;
+  height: 730px;
+}
+#flex10 a{
+  text-decoration: none;
+  color: red;
+}
+/* Reincarnated As A Sword */
+#sword-title{
+  text-align: center;
+  width:80%;
+  height: 30px;
+}
+#sword-12{
+  text-align: center;
+  height: 230px;
+}
+#sword-11{
+  text-align: center;
+  font-family: Courier;
+  height: 452px;
+}
+#sword-10{
+  text-align: center;
+  height: 500px;
+}
+#sword-10 a{
+  text-decoration: none;
+  color: red;
+}
+/* Majo No Tabitabi */
+#elaina-title{
+  text-align: center;
+  width:80%;
+  height: 30px;
+}
+#elaina-13{
+  width: 300px;
+  height: 360px;
+}
+#elaina-12{
+  text-align: center;
+  height: 240px;
+}
+#elaina-11{
+  text-align: center;
+  font-family: Courier;
+  height: 700px;
+}
+#elaina-10{
+  text-align: center;
+  height: 500px;
+}
+#elaina-10 a{
+  text-decoration: none;
+  color: red;
+}
+/* Adachi And Shimamura */
+#adachi-title{
+  text-align: center;
+  width:90%;
+  height: 30px;
+}
+#adachi-13{
+  width: 300px;
+  height: 360px;
+}
+#adachi-12{
+  text-align: center;
+  height: 250px;
+}
+#adachi-11{
+  text-align: center;
+  font-family: Courier;
+  height: 700px;
+}
+#adachi-10{
+  text-align: center;
+  height: 550px;
+}
+#adachi-10 a{
+  text-decoration: none;
+  color: red;
+}
+/* Girls Kingdom */
+#gkingdom-title{
+  text-align: center;
+  width:80%;
+  height: 30px;
+}
+#gkingdom-13{
+  width: 300px;
+  height: 360px;
+}
+#gkingdom-12{
+  text-align: center;
+  height: 240px;
+}
+#gkingdom-11{
+  text-align: center;
+  font-family: Courier;
+  height: 780px;
+}
+#gkingdom-10{
+  text-align: center;
+  height: 280px;
+}
+#gkingdom-10 a{
+  text-decoration: none;
+  color: red;
+}
+/* Otherside Picnic */
+#otherside-title{
+  text-align: center;
+  width:80%;
+  height: 30px;
+}
+#otherside-13{
+  width: 300px;
+  height: 360px;
+}
+#otherside-12{
+  text-align: center;
+  height: 250px;
+}
+#otherside-11{
+  text-align: center;
+  font-family: Courier;
+  height: 580px;
+}
+#otherside-10{
+  text-align: center;
+  height: 440px;
+}
+#otherside-10 a{
+  text-decoration: none;
+  color: red;
+}
+/* The Executioner And Her Way Of Life */
+#executioner-title{
+  text-align: center;
+  width:98%;
+  height: 30px;
+}
+#executioner-13{
+  width: 300px;
+  height: 360px;
+}
+#executioner-12{
+  text-align: center;
+  height: 240px;
+}
+#executioner-11{
+  text-align: center;
+  font-family: Courier;
+  height: 700px;
+}
+#executioner-10{
+  text-align: center;
+  height: 300px;
+}
+#executioner-10 a{
+  text-decoration: none;
+  color: red;
+}
+/* Im Inlove With The Villainess */
+#inlove-title{
+  text-align: center;
+  width:98%;
+  height: 30px;
+}
+#inlove-13{
+  width: 300px;
+  height: 360px;
+}
+#inlove-12{
+  text-align: center;
+  height: 250px;
+}
+#inlove-11{
+  text-align: center;
+  font-family: Courier;
+  height: 730px;
+}
+#inlove-10{
+  text-align: center;
+  height: 330px;
+}
+#inlove-10 a{
+  text-decoration: none;
+  color: red;
+}
+/* The Magical Revolution */
+#magical-title{
+  text-align: center;
+  width:98%;
+  height: 80px;
+}
+#magical-13{
+  width: 300px;
+  height: 360px;
+}
+#magical-12{
+  text-align: center;
+  height: 250px;
+}
+#magical-11{
+  text-align: center;
+  font-family: Courier;
+  height: 500px;
+}
+#magical-10{
+  text-align: center;
+  height: 200px;
+}
+#magical-10 a{
+  text-decoration: none;
+  color: red;
+}
+/* The Vexations Of The Shut-in Vampire Princess */
+#vexation-title{
+  text-align: center;
+  width:90%;
+  height: 60px;
+}
+#vexation-13{
+  width: 300px;
+  height: 360px;
+}
+#vexation-12{
+  text-align: center;
+  height: 250px;
+}
+#vexation-11{
+  text-align: center;
+  font-family: Courier;
+  height: 800px;
+}
+#vexation-10{
+  text-align: center;
+  height: 200px;
+}
+#vexation-10 a{
+  text-decoration: none;
+  color: red;
+}
+/* Spy Classroom */
+#spy-title{
+  text-align: center;
+  width:90%;
+  height: 30px;
+}
+#spy-13{
+  width: 300px;
+  height: 360px;
+}
+#spy-12{
+  text-align: center;
+  height: 250px;
+}
+#spy-11{
+  text-align: center;
+  font-family: Courier;
+  height: 900px;
+}
+#spy-10{
+  text-align: center;
+  height: 250px;
+}
+#spy-10 a{
+  text-decoration: none;
+  color: red;
+}
+/* She's The Cutest... But We're Just Friends */
+#cutest-title{
+  text-align: center;
+  width:90%;
+  height: 60px;
+}
+#cutest-13{
+  width: 300px;
+  height: 360px;
+}
+#cutest-12{
+  text-align: center;
+  height: 250px;
+}
+#cutest-11{
+  text-align: center;
+  font-family: Courier;
+  height: 550px;
+}
+#cutest-10{
+  text-align: center;
+  height: 200px;
+}
+#cutest-10 a{
+  text-decoration: none;
+  color: red;
+}
