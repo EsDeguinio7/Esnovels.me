@@ -497,3 +497,30 @@ footer h4{
   text-decoration: none;
   color: red;
 }
+/* Taking Care Of My Younger Sister's Too Naive Of A Beautiful Yankee High Schooler, Then Falling In Love */
+#yankee-title{
+  text-align: center;
+  width:98%;
+  height: 90px;
+}
+#yankee-13{
+  width: 300px;
+  height: 360px;
+}
+#yankee-12{
+  text-align: center;
+  height: 230px;
+}
+#yankee-11{
+  text-align: center;
+  font-family: Courier;
+  height: 930px;
+}
+#yankee-10{
+  text-align: center;
+  height: 130px;
+}
+#yankee-10 a{
+  text-decoration: none;
+  color: red;
+}
