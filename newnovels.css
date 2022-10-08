@@ -605,3 +605,30 @@ footer h4{
   text-decoration: none;
   color: red;
 }
+/* 𝙰𝚏𝚝𝚎𝚛 𝙼𝚢 𝙵𝚒𝚛𝚜𝚝 𝙻𝚘𝚟𝚎 𝚆𝚑𝚘 𝙸𝚜 𝙼𝚢 𝙲𝚕𝚊𝚜𝚜𝚖𝚊𝚝𝚎 𝙱𝚎𝚌𝚊𝚖𝚎 𝙼𝚢 𝙵𝚊𝚖𝚒𝚕𝚢, 𝙼𝚢 𝙲𝚑𝚒𝚕𝚍𝚑𝚘𝚘𝚍 𝙵𝚛𝚒𝚎𝚗𝚍 𝙱𝚎𝚌𝚊𝚖𝚎 𝚁𝚎𝚊𝚕𝚕𝚢 𝚂𝚠𝚎𝚎𝚝 𝚃𝚘 𝙼𝚎 */
+#family-title{
+  text-align: center;
+  width:90%;
+  height: 80px;
+}
+#family-13{
+  width: 300px;
+  height: 360px;
+}
+#family-12{
+  text-align: center;
+  height: 250px;
+}
+#family-11{
+  text-align: center;
+  font-family: Courier;
+  height: 470px;
+}
+#family-10{
+  text-align: center;
+  height: 120px;
+}
+#family-10 a{
+  text-decoration: none;
+  color: red;
+}
