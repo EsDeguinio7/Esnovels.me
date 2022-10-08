@@ -524,3 +524,30 @@ footer h4{
   text-decoration: none;
   color: red;
 }
+/* No Game No Life: Practical War Game & Yuu Kamiya Art Works */
+#practical-title{
+  text-align: center;
+  width:98%;
+  height: 60px;
+}
+#practical-13{
+  width: 300px;
+  height: 360px;
+}
+#practical-12{
+  text-align: center;
+  height: 250px;
+}
+#practical-11{
+  text-align: center;
+  font-family: Courier;
+  height: 580px;
+}
+#practical-10{
+  text-align: center;
+  height: 220px;
+}
+#practical-10 a{
+  text-decoration: none;
+  color: red;
+}
