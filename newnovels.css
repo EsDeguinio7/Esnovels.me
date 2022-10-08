@@ -551,3 +551,30 @@ footer h4{
   text-decoration: none;
   color: red;
 }
+/* 𝙷𝚘𝚠 𝙲𝚘𝚞𝚕𝚍 𝚈𝚘𝚞 𝙻𝚒𝚔𝚎 𝙰𝚗𝚘𝚝𝚑𝚎𝚛 𝙶𝚒𝚛𝚕 𝚆𝚑𝚎𝚗 𝚈𝚘𝚞 𝙰𝚕𝚛𝚎𝚊𝚍𝚢 𝙷𝚊𝚟𝚎 𝙰 𝙲𝚞𝚝𝚎 𝙵𝚒𝚊𝚗𝚌𝚎𝚎 𝙻𝚒𝚔𝚎 𝙼𝚎 */
+#fiancee-title{
+  text-align: center;
+  width:98%;
+  height: 80px;
+}
+#fiancee-13{
+  width: 300px;
+  height: 360px;
+}
+#fiancee-12{
+  text-align: center;
+  height: 250px;
+}
+#fiancee-11{
+  text-align: center;
+  font-family: Courier;
+  height: 700px;
+}
+#fiancee-10{
+  text-align: center;
+  height: 120px;
+}
+#fiancee-10 a{
+  text-decoration: none;
+  color: red;
+}
