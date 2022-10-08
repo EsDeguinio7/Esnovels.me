@@ -578,3 +578,30 @@ footer h4{
   text-decoration: none;
   color: red;
 }
+/* Heat The Pig Liver */
+#pig-title{
+  text-align: center;
+  width:90%;
+  height: 20px;
+}
+#pig-13{
+  width: 300px;
+  height: 360px;
+}
+#pig-12{
+  text-align: center;
+  height: 250px;
+}
+#pig-11{
+  text-align: center;
+  font-family: Courier;
+  height: 1050px;
+}
+#pig-10{
+  text-align: center;
+  height: 120px;
+}
+#pig-10 a{
+  text-decoration: none;
+  color: red;
+}
