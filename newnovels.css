@@ -713,3 +713,30 @@ footer h4{
   text-decoration: none;
   color: red;
 }
+/* 𝚈𝚘𝚖𝚎𝚒 𝙸𝚌𝚑𝚒𝚗𝚎𝚗 𝙽𝚘 𝙺𝚒𝚖𝚒 𝙶𝚊 𝙱𝚘𝚔𝚞 𝙽𝚒 𝙺𝚘𝚔𝚘𝚜𝚑𝚒𝚝𝚎 𝙺𝚞𝚛𝚎𝚝𝚊 𝙼𝚘𝚗𝚘 */
+#yomei-title{
+  text-align: center;
+  width:98%;
+  height: 60px;
+}
+#yomei-13{
+  width: 300px;
+  height: 360px;
+}
+#yomei-12{
+  text-align: center;
+  height: 230px;
+}
+#yomei-11{
+  text-align: center;
+  font-family: Courier;
+  height: 550px;
+}
+#yomei-10{
+  text-align: center;
+  height: 120px;
+}
+#yomei-10 a{
+  text-decoration: none;
+  color: red;
+}
