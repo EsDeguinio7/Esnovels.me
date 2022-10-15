@@ -121,8 +121,8 @@ footer h4{
   border-radius: 2px;
 }
 #noveltitle{
-  width: 50%;
-  height: 25px;
+  width: 60%;
+  height: 24px;
   text-align: center;
 }
 #flex13{
@@ -140,11 +140,11 @@ footer h4{
 #flex11{
   text-align: center;
   font-family: Courier;
-  height: 520px;
+  height: 630px;
 }
 #flex10{
   text-align: center;
-  height: 730px;
+  height: 620px;
 }
 #flex10 a{
   text-decoration: none;
@@ -153,8 +153,8 @@ footer h4{
 /* Reincarnated As A Sword */
 #sword-title{
   text-align: center;
-  width:80%;
-  height: 30px;
+  width:85%;
+  height: 24px;
 }
 #sword-12{
   text-align: center;
@@ -163,11 +163,11 @@ footer h4{
 #sword-11{
   text-align: center;
   font-family: Courier;
-  height: 650px;
+  height: 500px;
 }
 #sword-10{
   text-align: center;
-  height: 800px;
+  height: 580px;
 }
 #sword-10 a{
   text-decoration: none;
@@ -177,7 +177,7 @@ footer h4{
 #elaina-title{
   text-align: center;
   width:80%;
-  height: 30px;
+  height: 24px;
 }
 #elaina-13{
   width: 300px;
@@ -194,7 +194,7 @@ footer h4{
 }
 #elaina-10{
   text-align: center;
-  height: 500px;
+  height: 480px;
 }
 #elaina-10 a{
   text-decoration: none;
@@ -204,7 +204,7 @@ footer h4{
 #adachi-title{
   text-align: center;
   width:90%;
-  height: 30px;
+  height: 24px;
 }
 #adachi-13{
   width: 300px;
@@ -217,11 +217,11 @@ footer h4{
 #adachi-11{
   text-align: center;
   font-family: Courier;
-  height: 700px;
+  height: 683px;
 }
 #adachi-10{
   text-align: center;
-  height: 550px;
+  height: 520px;
 }
 #adachi-10 a{
   text-decoration: none;
@@ -231,7 +231,7 @@ footer h4{
 #gkingdom-title{
   text-align: center;
   width:80%;
-  height: 30px;
+  height: 24px;
 }
 #gkingdom-13{
   width: 300px;
@@ -239,16 +239,16 @@ footer h4{
 }
 #gkingdom-12{
   text-align: center;
-  height: 240px;
+  height: 235px;
 }
 #gkingdom-11{
   text-align: center;
   font-family: Courier;
-  height: 780px;
+  height: 723px;
 }
 #gkingdom-10{
   text-align: center;
-  height: 280px;
+  height: 270px;
 }
 #gkingdom-10 a{
   text-decoration: none;
@@ -258,7 +258,7 @@ footer h4{
 #otherside-title{
   text-align: center;
   width:80%;
-  height: 30px;
+  height: 24px;
 }
 #otherside-13{
   width: 300px;
@@ -266,12 +266,12 @@ footer h4{
 }
 #otherside-12{
   text-align: center;
-  height: 260px;
+  height: 255px;
 }
 #otherside-11{
   text-align: center;
   font-family: Courier;
-  height: 580px;
+  height: 550px;
 }
 #otherside-10{
   text-align: center;
@@ -285,7 +285,7 @@ footer h4{
 #executioner-title{
   text-align: center;
   width:98%;
-  height: 30px;
+  height: 24px;
 }
 #executioner-13{
   width: 300px;
@@ -293,16 +293,16 @@ footer h4{
 }
 #executioner-12{
   text-align: center;
-  height: 240px;
+  height: 235px;
 }
 #executioner-11{
   text-align: center;
   font-family: Courier;
-  height: 710px;
+  height: 705px;
 }
 #executioner-10{
   text-align: center;
-  height: 300px;
+  height: 275px;
 }
 #executioner-10 a{
   text-decoration: none;
@@ -312,7 +312,7 @@ footer h4{
 #inlove-title{
   text-align: center;
   width:98%;
-  height: 30px;
+  height: 24px;
 }
 #inlove-13{
   width: 300px;
@@ -320,12 +320,12 @@ footer h4{
 }
 #inlove-12{
   text-align: center;
-  height: 260px;
+  height: 255px;
 }
 #inlove-11{
   text-align: center;
   font-family: Courier;
-  height: 740px;
+  height: 730px;
 }
 #inlove-10{
   text-align: center;
@@ -338,8 +338,8 @@ footer h4{
 /* The Magical Revolution */
 #magical-title{
   text-align: center;
-  width:98%;
-  height: 80px;
+  width:95%;
+  height: 74px;
 }
 #magical-13{
   width: 300px;
@@ -352,11 +352,11 @@ footer h4{
 #magical-11{
   text-align: center;
   font-family: Courier;
-  height: 500px;
+  height: 450px;
 }
 #magical-10{
   text-align: center;
-  height: 200px;
+  height: 170px;
 }
 #magical-10 a{
   text-decoration: none;
@@ -366,7 +366,7 @@ footer h4{
 #vexation-title{
   text-align: center;
   width:90%;
-  height: 60px;
+  height: 54px;
 }
 #vexation-13{
   width: 300px;
@@ -379,11 +379,11 @@ footer h4{
 #vexation-11{
   text-align: center;
   font-family: Courier;
-  height: 800px;
+  height: 785px;
 }
 #vexation-10{
   text-align: center;
-  height: 200px;
+  height: 170px;
 }
 #vexation-10 a{
   text-decoration: none;
@@ -393,7 +393,7 @@ footer h4{
 #spy-title{
   text-align: center;
   width:90%;
-  height: 30px;
+  height: 24px;
 }
 #spy-13{
   width: 300px;
@@ -406,11 +406,11 @@ footer h4{
 #spy-11{
   text-align: center;
   font-family: Courier;
-  height: 900px;
+  height: 870px;
 }
 #spy-10{
   text-align: center;
-  height: 250px;
+  height: 220px;
 }
 #spy-10 a{
   text-decoration: none;
@@ -420,7 +420,7 @@ footer h4{
 #cutest-title{
   text-align: center;
   width:90%;
-  height: 60px;
+  height: 54px;
 }
 #cutest-13{
   width: 300px;
@@ -428,16 +428,16 @@ footer h4{
 }
 #cutest-12{
   text-align: center;
-  height: 250px;
+  height: 245px;
 }
 #cutest-11{
   text-align: center;
   font-family: Courier;
-  height: 550px;
+  height: 520px;
 }
 #cutest-10{
   text-align: center;
-  height: 200px;
+  height: 170px;
 }
 #cutest-10 a{
   text-decoration: none;
@@ -447,7 +447,7 @@ footer h4{
 #npcs-title{
   text-align: center;
   width:90%;
-  height: 60px;
+  height: 54px;
 }
 #npcs-13{
   width: 300px;
@@ -464,7 +464,7 @@ footer h4{
 }
 #npcs-10{
   text-align: center;
-  height: 230px;
+  height: 225px;
 }
 #npcs-10 a{
   text-decoration: none;
@@ -474,7 +474,7 @@ footer h4{
 #shinwa-title{
   text-align: center;
   width:90%;
-  height: 60px;
+  height: 56px;
 }
 #shinwa-13{
   width: 300px;
@@ -487,7 +487,7 @@ footer h4{
 #shinwa-11{
   text-align: center;
   font-family: Courier;
-  height: 650px;
+  height: 635px;
 }
 #shinwa-10{
   text-align: center;
@@ -501,7 +501,7 @@ footer h4{
 #yankee-title{
   text-align: center;
   width:98%;
-  height: 90px;
+  height: 79px;
 }
 #yankee-13{
   width: 300px;
@@ -509,7 +509,7 @@ footer h4{
 }
 #yankee-12{
   text-align: center;
-  height: 230px;
+  height: 220px;
 }
 #yankee-11{
   text-align: center;
@@ -518,7 +518,7 @@ footer h4{
 }
 #yankee-10{
   text-align: center;
-  height: 130px;
+  height: 115px;
 }
 #yankee-10 a{
   text-decoration: none;
@@ -528,7 +528,7 @@ footer h4{
 #practical-title{
   text-align: center;
   width:98%;
-  height: 60px;
+  height: 54px;
 }
 #practical-13{
   width: 300px;
@@ -555,7 +555,7 @@ footer h4{
 #fiancee-title{
   text-align: center;
   width:98%;
-  height: 80px;
+  height: 79px;
 }
 #fiancee-13{
   width: 300px;
@@ -568,7 +568,7 @@ footer h4{
 #fiancee-11{
   text-align: center;
   font-family: Courier;
-  height: 720px;
+  height: 700px;
 }
 #fiancee-10{
   text-align: center;
@@ -582,7 +582,7 @@ footer h4{
 #pig-title{
   text-align: center;
   width:90%;
-  height: 30px;
+  height: 24px;
 }
 #pig-13{
   width: 300px;
@@ -599,7 +599,7 @@ footer h4{
 }
 #pig-10{
   text-align: center;
-  height: 120px;
+  height: 115px;
 }
 #pig-10 a{
   text-decoration: none;
@@ -608,8 +608,8 @@ footer h4{
 /* 𝙰𝚏𝚝𝚎𝚛 𝙼𝚢 𝙵𝚒𝚛𝚜𝚝 𝙻𝚘𝚟𝚎 𝚆𝚑𝚘 𝙸𝚜 𝙼𝚢 𝙲𝚕𝚊𝚜𝚜𝚖𝚊𝚝𝚎 𝙱𝚎𝚌𝚊𝚖𝚎 𝙼𝚢 𝙵𝚊𝚖𝚒𝚕𝚢, 𝙼𝚢 𝙲𝚑𝚒𝚕𝚍𝚑𝚘𝚘𝚍 𝙵𝚛𝚒𝚎𝚗𝚍 𝙱𝚎𝚌𝚊𝚖𝚎 𝚁𝚎𝚊𝚕𝚕𝚢 𝚂𝚠𝚎𝚎𝚝 𝚃𝚘 𝙼𝚎 */
 #family-title{
   text-align: center;
-  width:95%;
-  height: 90px;
+  width:94%;
+  height: 70px;
 }
 #family-13{
   width: 300px;
@@ -649,7 +649,7 @@ footer h4{
 #tonari-11{
   text-align: center;
   font-family: Courier;
-  height: 900px;
+  height: 820px;
 }
 #tonari-10{
   text-align: center;
@@ -662,8 +662,8 @@ footer h4{
 /* 𝙰𝚏𝚝𝚎𝚛 𝙰 𝙷𝚎𝚊𝚛𝚝𝚋𝚛𝚎𝚊𝚔, 𝙼𝚢 𝙱𝚒𝚝𝚝𝚎𝚛 𝙲𝚑𝚒𝚕𝚍𝚑𝚘𝚘𝚍 𝙵𝚛𝚒𝚎𝚗𝚍 𝙸𝚜 𝙽𝚘𝚠 𝚂𝚠𝚎𝚎𝚝 𝙻𝚒𝚔𝚎 𝚂𝚞𝚐𝚊𝚛 */
 #heartbreak-title{
   text-align: center;
-  width:98%;
-  height: 60px;
+  width:80%;
+  height: 79px;
 }
 #heartbreak-13{
   width: 300px;
@@ -676,7 +676,7 @@ footer h4{
 #heartbreak-11{
   text-align: center;
   font-family: Courier;
-  height: 770px;
+  height: 760px;
 }
 #heartbreak-10{
   text-align: center;
@@ -690,7 +690,7 @@ footer h4{
 #outline-title{
   text-align: center;
   width:90%;
-  height: 30px;
+  height: 24px;
 }
 #outline-13{
   width: 300px;
@@ -716,8 +716,8 @@ footer h4{
 /* 𝚈𝚘𝚖𝚎𝚒 𝙸𝚌𝚑𝚒𝚗𝚎𝚗 𝙽𝚘 𝙺𝚒𝚖𝚒 𝙶𝚊 𝙱𝚘𝚔𝚞 𝙽𝚒 𝙺𝚘𝚔𝚘𝚜𝚑𝚒𝚝𝚎 𝙺𝚞𝚛𝚎𝚝𝚊 𝙼𝚘𝚗𝚘 */
 #yomei-title{
   text-align: center;
-  width:98%;
-  height: 60px;
+  width:90%;
+  height: 45px;
 }
 #yomei-13{
   width: 300px;
