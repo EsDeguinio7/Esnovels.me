@@ -132,7 +132,7 @@ label #btn:hover{
 
 #rec{
     width: 150px;
-    height: 30px;
+    height: 24px;
     text-align:center;
 }
 
@@ -189,8 +189,8 @@ footer h4{
     margin-bottom:20px;
 }
 #oneshot-13{
-    width: 60%;
-    height: 30px;
+    width: 300px;
+    height: 24px;
     text-align:center;
     margin-top:20px;
 }
@@ -202,6 +202,7 @@ footer h4{
 #oneshot-14 a{
   text-decoration: none;
   color:red;
+  margin-left:20px;
 }
 /* Light Novels */
 .ln-bars{
@@ -218,19 +219,20 @@ footer h4{
     align-items:center;
 }
 #ln-13{
-    width: 60%;
-    height: 30px;
+    width: 300px;
+    height: 24px;
     text-align:center;
     margin-top:20px;
 }
 #ln-14{
   text-align: center;
   text-decoration: none;
-  min-height:4300px;
+  height:4500px;
 }
 #ln-14 a{
   text-decoration: none;
   color:red;
+  margin-left:20px;
 }
 /* Web Novels */
 .wn-bars{
@@ -247,8 +249,8 @@ footer h4{
     align-items:center;
 }
 #wn-13{
-    width: 60%;
-    height: 30px;
+    width: 300px;
+    height: 24px;
     text-align:center;
     margin-top:20px;
 }
@@ -260,4 +262,5 @@ footer h4{
 #wn-14 a{
   text-decoration: none;
   color:red;
+  margin-left:20px;
 }
