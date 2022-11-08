@@ -197,12 +197,12 @@ footer h4{
 #oneshot-14{
   text-align: left;
   text-decoration: none;
-  height: 1200px;
+  height: 1300px;
 }
 #oneshot-14 a{
   text-decoration: none;
   color:red;
-  margin-left:20px;
+  margin-left:15px;
 }
 /* Light Novels */
 .ln-bars{
@@ -227,12 +227,12 @@ footer h4{
 #ln-14{
   text-align: left;
   text-decoration: none;
-  height:5000px;
+  height:5500px;
 }
 #ln-14 a{
   text-decoration: none;
   color:red;
-  margin-left:20px;
+  margin-left:15px;
 }
 /* Web Novels */
 .wn-bars{
@@ -257,10 +257,10 @@ footer h4{
 #wn-14{
   text-align: left;
   text-decoration: none;
-  height:1800px;
+  height:2000px;
 }
 #wn-14 a{
   text-decoration: none;
   color:red;
-  margin-left:20px;
+  margin-left:15px;
 }
